@@ -13,7 +13,7 @@ from datetime import datetime
 st.set_page_config(page_title="Dashboard Hôtelier", layout="wide", page_icon="🏨")
 
 # Titre de l'application
-st.title("📊 Dashboard de Contrôle de Gestion Hôtelier")
+st.title("📊 Dashboard de Contrôle de Gestion Hôtelière")
 
 # Fonction pour charger les données (simulée pour l'exemple)
 @st.cache_data
